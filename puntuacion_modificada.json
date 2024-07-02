@@ -1,0 +1,32 @@
+{
+    "puntuaciones": [
+        {
+            "nombre": "Antonio Banderas",
+            "puntos": 120
+        },
+        {
+            "nombre": "Peter Parker",
+            "puntos": 160
+        },
+        {
+            "nombre": "Maria de La Cruz",
+            "puntos": 50
+        },
+        {
+            "nombre": "Megamente",
+            "puntos": 140
+        },
+        {
+            "nombre": "Xxshadow_walkerxX",
+            "puntos": 60
+        },
+        {
+            "nombre": "BV",
+            "puntos": 40
+        },
+        {
+            "nombre": "Facundo Castillos",
+            "puntos": 80
+        }
+    ]
+}
